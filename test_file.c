@@ -8,6 +8,5 @@ printf("Hello World!");
 
 printf("SUCCESS.")
   
-//additional comment.
 return 0;
 }
