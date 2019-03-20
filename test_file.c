@@ -11,7 +11,7 @@ printf("SUCCESS.");
 //Changes made successfully.
 
 printf("SUCCESS.")
-  c=a+b;
+  int c=a+b;
 print("%d",c);
   
 //added more things here.
